@@ -1,4 +1,4 @@
-lzheimer's Disease Overview:
+Alzheimer's Disease Overview:
 Alzheimer's disease is a progressive neurological disorder that affects memory, thinking, and behavior. It is the most common cause of dementia and primarily impacts older adults, although it can occasionally affect younger individuals. Common symptoms include memory loss, difficulty completing familiar tasks, confusion with time and place, and misplacing items.
 
 For caregivers, one major challenge is helping the patient track and recall where they have placed important items like keys, glasses, or medication. This app is designed to alleviate that challenge by providing an easy-to-use tracking tool tailored to the needs of Alzheimer's patients and their caregivers.
